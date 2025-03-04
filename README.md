@@ -58,3 +58,15 @@ classDiagram
 ### [https://sdw-2023-prd.up.railway.app/swagger-ui.html](https://santander-production.up.railway.app/swagger-ui.html)
 
 Esta API ficará disponível no Railway por um período de tempo limitado.
+
+## Print da tela da aplicação em funcionamento
+
+![deployments.png](src/main/resources/img/deployments.png)
+- --------------------------------------------------------
+![Tables.png](src/main/resources/img/Tables.png)
+- --------------------------------------------------------
+![tb_account.png](src/main/resources/img/tb_account.png)
+- --------------------------------------------------------
+![tb_card.png](src/main/resources/img/tb_card.png)
+- --------------------------------------------------------
+![tb_user.png](src/main/resources/img/tb_user.png)
