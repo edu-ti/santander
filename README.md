@@ -3,7 +3,7 @@ RESTful API da Santander Dev Week 2023 construída em Java 17 com Spring Boot 3.
 
 ## Principais Tecnologias
  - **Java 17**: Utilizei a versão LTS do Java;
- - **Spring Boot 3**: Trabalhei com essa versão do Spring Boot, conforme solicitado em video aula explicatifa do projeto;
+ - **Spring Boot 3**: Trabalhei com essa versão do Spring Boot, conforme solicitado em video aula explicativa do projeto;
  - **Spring Data JPA**: Explorei essa ferramenta pois ela simplifica a camada de acesso aos dados, facilitando a integração com bancos de dados SQL;
  - **OpenAPI (Swagger)**: Criar uma documentação de API eficaz e fácil de entender usando a OpenAPI (Swagger), perfeitamente alinhada com a alta produtividade que o Spring Boot oferece;
  - **Railway**: Facilita o deploy e monitoramento de nossas soluções na nuvem, além de oferecer diversos bancos de dados como serviço e pipelines de CI/CD.
